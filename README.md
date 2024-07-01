@@ -1,1 +1,1 @@
-configure php.ini for the ax size of images accepted
+configure php.ini for the max size of images accepted
